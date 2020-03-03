@@ -83,7 +83,6 @@
     <Compile Include="RDR2\BlipColor.cs" />
     <Compile Include="RDR2\Camera.cs" />
     <Compile Include="RDR2\CameraShake.cs" />
-    <Compile Include="RDR2\Console.cs" />
     <Compile Include="RDR2\Control.cs" />
     <Compile Include="RDR2\Entities\Entity.cs" />
     <Compile Include="RDR2\Entities\EntityType.cs" />
@@ -125,6 +124,7 @@
     <Compile Include="RDR2\Global.cs" />
     <Compile Include="RDR2\GlobalCollection.cs" />
     <Compile Include="RDR2\Handleable.cs" />
+    <Compile Include="RDR2\IntersectOptions.cs" />
     <Compile Include="RDR2\Language.cs" />
     <Compile Include="RDR2\MarkerType.cs" />
     <Compile Include="RDR2\Pickup.cs" />

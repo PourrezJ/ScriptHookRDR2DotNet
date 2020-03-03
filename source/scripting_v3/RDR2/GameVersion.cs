@@ -8,7 +8,5 @@ namespace RDR2
 	public enum GameVersion
 	{
 		Unknown = 0,
-
-		
 	}
 }

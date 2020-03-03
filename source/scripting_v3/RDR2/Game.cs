@@ -78,10 +78,6 @@ namespace RDR2
 		}
 
 		public static bool IsWaypointActive => Function.Call<bool>(Hash.IS_WAYPOINT_ACTIVE);
-
-
-
-
 		public static int GameTime => Function.Call<int>(Hash.GET_GAME_TIMER);
 		public static int FrameCount => Function.Call<int>(Hash.GET_FRAME_COUNT);
 
